@@ -1,6 +1,6 @@
 {
   "name": "jevcore",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "TypeSafe Jev for DeepSeek Harness, the Model Context Protocol, and plain Node: typed judgments instead of prose, offline by default.",
   "main": "src/index.ts",
   "scripts": {
